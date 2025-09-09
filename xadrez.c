@@ -2,7 +2,6 @@
 
 int main() {
     // Nível Novato - Movimentação das Peças
-    // Sugestão: Declare variáveis constantes para representar o número de casas que cada peça pode se mover.
     unsigned int Rainha = 8;
     unsigned int Torre = 5;
     unsigned int Bispo = 5;
