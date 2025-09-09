@@ -10,8 +10,7 @@ int main() {
     // Implementação de Movimentação do Bispo
 
     do { //printa acima e direita para simular movimentação diagonal
-        printf("Acima\n");
-        print("Direita\n");
+        printf("Acima / direita\n");
         Bispo--; // decrementa o valor da variável enquanto o valor for diferente de zero
     } while (Bispo != 0);
 
